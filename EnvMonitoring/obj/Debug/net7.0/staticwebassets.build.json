@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0gOneT4si1uQFCTuE5g4WMrSExOrL2MuVhzoFIKHOAM=",
+  "Source": "EnvMonitoring",
+  "BasePath": "_content/EnvMonitoring",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

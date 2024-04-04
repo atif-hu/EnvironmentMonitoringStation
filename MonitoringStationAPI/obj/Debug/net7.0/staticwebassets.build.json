@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RGGjDKWqyOXtxStIJlY6JUZjuMFvoQfBOAJJgUIH/bs=",
+  "Source": "MonitoringStationAPI",
+  "BasePath": "_content/MonitoringStationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

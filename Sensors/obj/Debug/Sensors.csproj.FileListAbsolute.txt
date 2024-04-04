@@ -1,0 +1,6 @@
+C:\Users\w23063664\source\repos\EnvMonitoring\Sensors\bin\Debug\Sensors.dll
+C:\Users\w23063664\source\repos\EnvMonitoring\Sensors\bin\Debug\Sensors.pdb
+C:\Users\w23063664\source\repos\EnvMonitoring\Sensors\obj\Debug\Sensors.csproj.AssemblyReference.cache
+C:\Users\w23063664\source\repos\EnvMonitoring\Sensors\obj\Debug\Sensors.csproj.CoreCompileInputs.cache
+C:\Users\w23063664\source\repos\EnvMonitoring\Sensors\obj\Debug\Sensors.dll
+C:\Users\w23063664\source\repos\EnvMonitoring\Sensors\obj\Debug\Sensors.pdb
