@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MonitoringStationAPI.Database;
+using SensorsAPI.Controllers;
+using SensorsAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient();
+
+builder.Services.AddSingleton<TemperatureSensorController>(); // Register TemperatureSensorController
+builder.Services.AddHostedService<TemperatureReadingService>();
 
 var app = builder.Build();
 

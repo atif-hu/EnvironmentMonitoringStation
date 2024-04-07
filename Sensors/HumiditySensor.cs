@@ -8,10 +8,10 @@ namespace Sensors
 {
     public class HumiditySensor
     {
-        public double GetHumidity()
+        public float GetHumidity()
         {
             Random r = new Random();
-            int humidity = r.Next(0, 100);
+            float humidity = r.Next(0, 100);
             return humidity;
         }
     }
