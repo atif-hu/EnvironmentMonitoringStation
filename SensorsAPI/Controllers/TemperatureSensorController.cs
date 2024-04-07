@@ -24,12 +24,19 @@ namespace SensorsAPI.Controllers
             var temperatureSensor = new TemperatureSensor(); // Create instance of TemperatureSensor
             float temperatureValue = temperatureSensor.GetTemperature();
 
+            bool triggerWarning = false;
+
+            if(temperatureValue < -9 || temperatureValue > 30)
+            {
+                triggerWarning = true;
+            }
+
             var temperatureData = new TemperatureData
             {
                 SensorId = 1,
                 Timestamp = DateTime.UtcNow,
                 Temperature = temperatureValue,
-
+                TriggerThresholdWarning = triggerWarning
             };
 
             // Serialize temperature data to JSON
@@ -61,6 +68,8 @@ namespace SensorsAPI.Controllers
             public int SensorId { get; set; }
             public DateTime Timestamp { get; set; }
             public float Temperature { get; set; }
+            public bool TriggerThresholdWarning { get; set; }
+
         }
     }
 }

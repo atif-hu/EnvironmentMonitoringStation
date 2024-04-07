@@ -8,6 +8,7 @@ namespace MonitoringStationAPI.Database
         public MonitoringStationDbContext(DbContextOptions<MonitoringStationDbContext> options)
             : base(options)
         {
+            Database.EnsureCreated();
         }
 
         public DbSet<Sensor> Sensor { get; set; }
@@ -16,5 +17,8 @@ namespace MonitoringStationAPI.Database
         public DbSet<HumidityData> HumidityData { get; set; }
         public DbSet<CO2EmissionsData> CO2EmissionsData{ get; set; }
         public DbSet<AirPollutionData> AirPollutionData{ get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        => options.UseSqlite("Data Source=MonitoringStation.db");
     }
 }

@@ -11,9 +11,13 @@ namespace MonitoringStationAPI.Controllers
     {
         private readonly MonitoringStationDbContext _dbContext;
 
-        public TemperatureController(MonitoringStationDbContext dbContext)
+        //public TemperatureController(MonitoringStationDbContext dbContext)
+        //{
+        //    _dbContext = dbContext;
+        //}
+        public TemperatureController()
         {
-            _dbContext = dbContext;
+            _dbContext = DatabaseContextSingleton.Instance.GetDbContext();
         }
 
         [HttpGet]

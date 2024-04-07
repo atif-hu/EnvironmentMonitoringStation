@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MonitoringStationAPI.Database;
 
@@ -10,9 +11,11 @@ using MonitoringStationAPI.Database;
 namespace MonitoringStationAPI.Migrations
 {
     [DbContext(typeof(MonitoringStationDbContext))]
-    partial class MonitoringStationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240406134519_update")]
+    partial class update
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.0");
