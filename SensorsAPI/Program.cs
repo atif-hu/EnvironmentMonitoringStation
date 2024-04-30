@@ -1,17 +1,28 @@
-using Microsoft.EntityFrameworkCore;
-using MonitoringStationAPI.Database;
+using SensorsAPI.Controllers;
+using SensorsAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
-//// Add DbContext and specify the SQLite connection string
-//builder.Services.AddDbContext<MonitoringStationDbContext>(options =>
-//    options.UseSqlite(builder.Configuration.GetConnectionString("SQLiteConnection")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient();
+
+builder.Services.AddSingleton<TemperatureSensorController>(); // Register TemperatureSensorController
+builder.Services.AddHostedService<TemperatureReadingService>();
+
+builder.Services.AddSingleton<HumiditySensorController>(); // Register HumiditySensorController
+builder.Services.AddHostedService<HumidityReadingService>();
+
+builder.Services.AddSingleton<RainfallSensorController>(); // Register RainfallSensorController
+builder.Services.AddHostedService<RainfallReadingService>();
+
+builder.Services.AddSingleton<AirPollutionSensorController>(); // Register AirPollutionSensorController
+builder.Services.AddHostedService<AirPollutionReadingService>();
+
+builder.Services.AddSingleton<CO2EmissionsSensorController>(); // Register CO2EmissionsSensorController
+builder.Services.AddHostedService<CO2EmissionsReadingService>();
 
 var app = builder.Build();
 

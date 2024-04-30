@@ -8,10 +8,10 @@ namespace Sensors
 {
     public class RainfallSensor
     {
-        public double GetRainfall()
+        public float GetRainfall()
         {
             Random r = new Random();
-            int rainfall = r.Next(0, 40);
+            float rainfall = r.Next(0, 40);
             return rainfall;
         }
     }

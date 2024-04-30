@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\controllers\\temperaturemonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\temperaturemonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\backgroundtasks\\temperaturereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\backgroundtasks\\temperaturereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\database\\monitoringstationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\database\\monitoringstationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA45AD-373E-40B9-8B64-69F052A2AFFA}|Sensors\\Sensors.csproj|C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\sensors\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA45AD-373E-40B9-8B64-69F052A2AFFA}|Sensors\\Sensors.csproj|solutionrelative:sensors\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\controllers\\temperaturesensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\temperaturesensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\tests\\temperaturesensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\tests\\temperaturesensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\tests\\airpollutionsensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\tests\\airpollutionsensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\tests\\co2emissionssensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\tests\\co2emissionssensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\tests\\humiditysensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\tests\\humiditysensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\tests\\rainfallsensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\tests\\rainfallsensorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\controllers\\airpollutionsensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\airpollutionsensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\controllers\\co2emissionssensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\co2emissionssensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\controllers\\humiditysensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\humiditysensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\controllers\\rainfallsensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\rainfallsensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\controllers\\airpollutionmonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\airpollutionmonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\controllers\\co2emissionsmonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\co2emissionsmonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\controllers\\humiditymonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\humiditymonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\controllers\\rainfallmonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\rainfallmonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\backgroundtasks\\co2emissionsreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\backgroundtasks\\co2emissionsreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\models\\co2emissionsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\models\\co2emissionsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\models\\airpollutiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\models\\airpollutiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\models\\humiditydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\models\\humiditydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\models\\temperaturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\models\\temperaturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\backgroundtasks\\airpollutionreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\backgroundtasks\\airpollutionreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\backgroundtasks\\humidityreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\backgroundtasks\\humidityreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\sensorsapi\\backgroundtasks\\rainfallreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A4DB96-5447-46F9-AE33-F4171348201F}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\backgroundtasks\\rainfallreadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\migrations\\monitoringstationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\migrations\\monitoringstationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\user\\documents\\adv programming\\assessment1\\envmonitoring\\envmonitoring\\monitoringstationapi\\migrations\\20240414151717_fixmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D52DAB-2B4F-46BF-904D-97B923CD1D20}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\migrations\\20240414151717_fixmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\appsettings.json",
+              "RelativeToolTip": "MonitoringStationAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T11:04:49.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\Sensor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\Sensor.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\Sensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:33:16.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Program.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:19:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureMonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:34:02.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\TemperatureReadingService.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\BackgroundTasks\\TemperatureReadingService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\TemperatureReadingService.cs",
+              "RelativeToolTip": "SensorsAPI\\BackgroundTasks\\TemperatureReadingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:49:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Program.cs",
+              "RelativeToolTip": "SensorsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:53:53.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonitoringStationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Database\\MonitoringStationDbContext.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Database\\MonitoringStationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Database\\MonitoringStationDbContext.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Database\\MonitoringStationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:18:59.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\Sensors\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\Sensors\\TemperatureSensor.cs",
+              "RelativeToolTip": "Sensors\\TemperatureSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:49:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\SensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\SensorController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:46:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TemperatureSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:34:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RainfallSensorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\RainfallSensorControllerTests.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Tests\\RainfallSensorControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\RainfallSensorControllerTests.cs",
+              "RelativeToolTip": "SensorsAPI\\Tests\\RainfallSensorControllerTests.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:13:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TemperatureSensorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\TemperatureSensorControllerTests.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Tests\\TemperatureSensorControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\TemperatureSensorControllerTests.cs",
+              "RelativeToolTip": "SensorsAPI\\Tests\\TemperatureSensorControllerTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:03:25.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AirPollutionSensorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\AirPollutionSensorControllerTests.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Tests\\AirPollutionSensorControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\AirPollutionSensorControllerTests.cs",
+              "RelativeToolTip": "SensorsAPI\\Tests\\AirPollutionSensorControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:14:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CO2EmissionsSensorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\CO2EmissionsSensorControllerTests.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Tests\\CO2EmissionsSensorControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\CO2EmissionsSensorControllerTests.cs",
+              "RelativeToolTip": "SensorsAPI\\Tests\\CO2EmissionsSensorControllerTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:15:25.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HumiditySensorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\HumiditySensorControllerTests.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Tests\\HumiditySensorControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Tests\\HumiditySensorControllerTests.cs",
+              "RelativeToolTip": "SensorsAPI\\Tests\\HumiditySensorControllerTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:11:43.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RainfallSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\RainfallSensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\RainfallSensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\RainfallSensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\RainfallSensorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:42:35.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HumiditySensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\HumiditySensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\HumiditySensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\HumiditySensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\HumiditySensorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:43:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CO2EmissionsSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\CO2EmissionsSensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\CO2EmissionsSensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\CO2EmissionsSensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\CO2EmissionsSensorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:43:43.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AirPollutionSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\AirPollutionSensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\AirPollutionSensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\Controllers\\AirPollutionSensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\AirPollutionSensorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:43:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AirPollutionMonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\AirPollutionMonitoringController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\AirPollutionMonitoringController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\AirPollutionMonitoringController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\AirPollutionMonitoringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:27:12.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CO2EmissionsMonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\CO2EmissionsMonitoringController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\CO2EmissionsMonitoringController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\CO2EmissionsMonitoringController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\CO2EmissionsMonitoringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:14:22.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HumidityMonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\HumidityMonitoringController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\HumidityMonitoringController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\HumidityMonitoringController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\HumidityMonitoringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:24:36.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RainfallMonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\RainfallMonitoringController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\RainfallMonitoringController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Controllers\\RainfallMonitoringController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\RainfallMonitoringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:23:12.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CO2EmissionsReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\CO2EmissionsReadingService.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\BackgroundTasks\\CO2EmissionsReadingService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\CO2EmissionsReadingService.cs",
+              "RelativeToolTip": "SensorsAPI\\BackgroundTasks\\CO2EmissionsReadingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:42:07.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CO2EmissionsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\CO2EmissionsData.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\CO2EmissionsData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\CO2EmissionsData.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\CO2EmissionsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:15:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HumidityData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\HumidityData.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\HumidityData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\HumidityData.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\HumidityData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:11:54.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TemperatureData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\TemperatureData.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\TemperatureData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\TemperatureData.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\TemperatureData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:32:28.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AirPollutionData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\AirPollutionData.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\AirPollutionData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Models\\AirPollutionData.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\AirPollutionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:29:15.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AirPollutionReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\AirPollutionReadingService.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\BackgroundTasks\\AirPollutionReadingService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\AirPollutionReadingService.cs",
+              "RelativeToolTip": "SensorsAPI\\BackgroundTasks\\AirPollutionReadingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:56:06.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HumidityReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\HumidityReadingService.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\BackgroundTasks\\HumidityReadingService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\HumidityReadingService.cs",
+              "RelativeToolTip": "SensorsAPI\\BackgroundTasks\\HumidityReadingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:29:08.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RainfallReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\RainfallReadingService.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\BackgroundTasks\\RainfallReadingService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\SensorsAPI\\BackgroundTasks\\RainfallReadingService.cs",
+              "RelativeToolTip": "SensorsAPI\\BackgroundTasks\\RainfallReadingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:29:09.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MonitoringStationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Migrations\\MonitoringStationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Migrations\\MonitoringStationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Migrations\\MonitoringStationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Migrations\\MonitoringStationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:19:32.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240414151717_fixmigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Migrations\\20240414151717_fixmigration.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Migrations\\20240414151717_fixmigration.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\Migrations\\20240414151717_fixmigration.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Migrations\\20240414151717_fixmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:17:18.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

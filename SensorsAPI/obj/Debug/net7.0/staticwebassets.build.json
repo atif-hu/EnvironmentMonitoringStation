@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "Hash": "pkiXCag7J5V9Z9uqJk3NNUE1l2O/OJQvcAUbSKdtH0g=",
+  "Hash": "kLF5Kpq/6irX1mszmVs9ZfDz1G+bMOHq9Q/K/mFoPfk=",
   "Source": "SensorsAPI",
   "BasePath": "_content/SensorsAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\w23063664\\source\\repos\\EnvMonitoring\\MonitoringStationAPI\\MonitoringStationAPI.csproj",
+      "Identity": "C:\\Users\\user\\Documents\\Adv Programming\\Assessment1\\EnvMonitoring\\EnvMonitoring\\MonitoringStationAPI\\MonitoringStationAPI.csproj",
       "Version": 2,
       "Source": "MonitoringStationAPI",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
       "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [],

@@ -11,27 +11,29 @@ namespace SensorsAPI.Controllers
     public class SensorController : ControllerBase
     {       
         private readonly MonitoringStationDbContext _context;
-
-        //public SensorController(MonitoringStationDbContext context)
-        //{
-        //    _context = context;
-        //}
-
         public SensorController()
         {
             _context = DatabaseContextSingleton.Instance.GetDbContext();
         }
 
-        [HttpPost("AddSensor")]
+        [HttpGet]
+        public ActionResult<IEnumerable<Sensor>> GetSensorsData()
+        {
+            var sensorsData = _context.Sensor.ToList();
+            return Ok(sensorsData);
+        }
+
+        [HttpPost]
         public IActionResult AddSensor([FromBody] Sensor sensor)
         {
-            if (sensor == null)
-            {
-                return BadRequest("Sensor data is null.");
-            }
-
             try
             {
+                if (sensor == null)
+                {
+                    return BadRequest("Sensor data is null.");
+                }
+
+            
                 // Add the new sensor entity to the DbContext
                 _context.Sensor.Add(sensor);
 
@@ -39,6 +41,47 @@ namespace SensorsAPI.Controllers
                 _context.SaveChanges();
 
                 return Ok("Sensor added successfully.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult UpdateSensor(int id, [FromBody] Sensor sensor)
+        {
+            if (sensor == null || sensor.SensorId != id)
+            {
+                return BadRequest("Invalid sensor data.");
+            }
+
+            try
+            {
+                _context.Entry(sensor).State = EntityState.Modified;
+                _context.SaveChanges();
+                return Ok($"Sensor updated successfully. {sensor}");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteSensor(int id)
+        {
+            var sensor = _context.Sensor.Find(id);
+            if (sensor == null)
+            {
+                return NotFound("Sensor not found.");
+            }
+
+            try
+            {
+                _context.Sensor.Remove(sensor);
+                _context.SaveChanges();
+                return Ok("Sensor deleted successfully.");
             }
             catch (Exception ex)
             {

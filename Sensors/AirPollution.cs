@@ -8,10 +8,10 @@ namespace Sensors
 {
     public class AirPollutionSensor
     {
-        public double GetAirPollution()
+        public float GetAirPollution()
         {
             Random r = new Random();
-            int air_pollution = r.Next(1, 10);
+            float air_pollution = r.Next(1, 10);
             return air_pollution;
         }
     }

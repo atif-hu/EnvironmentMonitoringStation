@@ -23,7 +23,7 @@ namespace MonitoringStationAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<double>("AirPollution")
+                    b.Property<float>("AirPollution")
                         .HasColumnType("REAL");
 
                     b.Property<int>("SensorId")
@@ -46,7 +46,7 @@ namespace MonitoringStationAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<double>("CO2Emissions")
+                    b.Property<float>("CO2EmissionsValue")
                         .HasColumnType("REAL");
 
                     b.Property<int>("SensorId")
@@ -69,7 +69,7 @@ namespace MonitoringStationAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<double>("Humidity")
+                    b.Property<float>("Humidity")
                         .HasColumnType("REAL");
 
                     b.Property<int>("SensorId")
@@ -92,7 +92,7 @@ namespace MonitoringStationAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<double>("Rainfall")
+                    b.Property<float>("Rainfall")
                         .HasColumnType("REAL");
 
                     b.Property<int>("SensorId")
@@ -124,10 +124,10 @@ namespace MonitoringStationAPI.Migrations
                     b.Property<float>("DataRangeMin")
                         .HasColumnType("REAL");
 
-                    b.Property<float>("NormalThresholdMax")
+                    b.Property<float?>("NormalThresholdMax")
                         .HasColumnType("REAL");
 
-                    b.Property<float>("NormalThresholdMin")
+                    b.Property<float?>("NormalThresholdMin")
                         .HasColumnType("REAL");
 
                     b.Property<string>("ParameterType")

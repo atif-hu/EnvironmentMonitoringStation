@@ -8,7 +8,7 @@
         public float DataRangeMin { get; set; }
         public float DataRangeMax { get; set; }
         public string ?Unit { get; set; }
-        public float NormalThresholdMin { get; set; }
-        public float NormalThresholdMax { get; set; }
+        public float ?NormalThresholdMin { get; set; }
+        public float ?NormalThresholdMax { get; set; }
     }
 }
